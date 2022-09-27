@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Project\OpenCL\ocl1\main.cpp(44,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Project\OpenCL\ocl1\main.cpp(105,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Project\OpenCL\ocl1\main.cpp(166,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ocl1.vcxproj -> D:\Project\OpenCL\ocl1\x64\Debug\ocl1.exe
